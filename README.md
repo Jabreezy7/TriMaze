@@ -4,6 +4,10 @@ A first-person 3D maze explorer built with OpenGL. The maze is procedurally gene
 
 ---
 
+## Demo
+
+https://www.youtube.com/watch?v=xZxyBqd9HGg
+
 ## Build Instructions
 
 Make sure you have OpenGL and the required system libraries installed.
